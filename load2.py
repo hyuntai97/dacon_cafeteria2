@@ -32,8 +32,8 @@ def dataloader2(datadir, preprocess = 11):
 
 def menu_split(x):
     # 중식과 석식이 없던 날의 메뉴명(자기계발의날, * 등)을 길이로 판별하여 제외
-    # if len(x) < 21:
-    #     return ""
+    ## if len(x) < 21:
+    ##     return ""
     
     menu_list = []
     x = x.split(" ")
