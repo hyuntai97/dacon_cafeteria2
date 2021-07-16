@@ -1,0 +1,1 @@
+{"seed": 42, "datadir": "./data", "logdir": "./logs", "paramdir": "./params", "preprocess": 11, "load": 2, "params": "default", "kfold": 5, "val_size": null, "modelname": "XGB"}

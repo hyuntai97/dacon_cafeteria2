@@ -1,0 +1,4 @@
+# npy
+*.npy
+# model
+*.model

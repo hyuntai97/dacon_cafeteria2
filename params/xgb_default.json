@@ -1,0 +1,5 @@
+{
+    "learning_rate": [0.1, 0.09, 0.089, 0.08],
+    "objective": ["reg:squarederror"],
+    "booster": ["gbtree", "gblinear", "dart"]
+}
